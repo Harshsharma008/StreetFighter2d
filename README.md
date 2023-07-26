@@ -24,7 +24,7 @@ To run the game locally on your machine, follow these steps:
 
 Prerequisites: Ensure you have Java Development Kit (JDK) installed on your system.
 Clone the repository: git clone https://github.com/Harshsharma008/StreetFighter2d.git
-and extract the file
+
 Navigate to the project directory: cd street-fighter
 Compile the code: javac Main.java
 Run the game: java Main
