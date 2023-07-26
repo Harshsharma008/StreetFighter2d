@@ -39,7 +39,7 @@ Reduce your opponent's health bar to zero to win the round.
 
 
 
-Contributing
+**Contributing**
 We welcome contributions to enhance Street Fighter and make it even better! If you find any bugs or have ideas for new features, please open an issue or submit a pull request. Make sure to follow our code of conduct while contributing.
 
 
