@@ -25,8 +25,8 @@ public BufferedImage defaultImage() {
 	return null;
 }
 public void printBox(Graphics pen) {
-	pen.setColor(Color.RED);
-	pen.fillRect(x, y, w, h);
+	pen.setColor(Color.RED); // first set the color for the pen and then use it
+	pen.fillRect(x, y, w, h); 
 	pen.setColor(Color.GREEN);
 	pen.fillRect(x, y, health, h);
 	pen.setColor(Color.WHITE);
